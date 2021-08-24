@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: my-image
-        image: appregistry1000.azurecr.io/dotnetapp
+        image: devopscrjw.azurecr.io/dockerdotnetapp:13
         ports:
         - containerPort: 80
